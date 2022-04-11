@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ## :chart_with_upwards_trend: My GitHub Stats
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aadityatanwar&color=393939) <br />
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=aadityatanwar&row=2&margin-w=15&margin-h=15&theme=tokyonight) <br />
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=aadityatanwar&row=2&margin-w=15&margin-h=15&theme=merko) <br />
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=aadityatanwar&show_icons=true&include_all_commits=true&theme=radical&icon_color=blue) <br />
 ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=a_hi&theme=merko&layout=compact) <br />
 ![Most used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aadityatanwar&layout=compact&theme=tokyonight) <br />
